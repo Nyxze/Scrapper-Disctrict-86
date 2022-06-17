@@ -1,0 +1,486 @@
+[
+	{
+		"teams": [
+			{
+				"ranking": "1",
+				"teamName": "INGRANDES/ANTOIGNE",
+				"points": "47",
+				"days": "22",
+				"win": "14",
+				"nul": "5",
+				"loose": "3",
+				"forfait": "0",
+				"but_pour": "59",
+				"but_contre": "30",
+				"penality": "0",
+				"diff": "29"
+			},
+			{
+				"ranking": "2",
+				"teamName": "ANTRAN 2",
+				"points": "43",
+				"days": "22",
+				"win": "13",
+				"nul": "4",
+				"loose": "5",
+				"forfait": "0",
+				"but_pour": "49",
+				"but_contre": "38",
+				"penality": "0",
+				"diff": "11"
+			},
+			{
+				"ranking": "3",
+				"teamName": "LA PALLU",
+				"points": "42",
+				"days": "22",
+				"win": "13",
+				"nul": "3",
+				"loose": "6",
+				"forfait": "0",
+				"but_pour": "59",
+				"but_contre": "32",
+				"penality": "0",
+				"diff": "27"
+			},
+			{
+				"ranking": "4",
+				"teamName": "OYRE DANGE 2",
+				"points": "38",
+				"days": "22",
+				"win": "12",
+				"nul": "2",
+				"loose": "8",
+				"forfait": "0",
+				"but_pour": "61",
+				"but_contre": "37",
+				"penality": "0",
+				"diff": "24"
+			},
+			{
+				"ranking": "5",
+				"teamName": "MIREBEAU",
+				"points": "36",
+				"days": "22",
+				"win": "10",
+				"nul": "6",
+				"loose": "6",
+				"forfait": "0",
+				"but_pour": "50",
+				"but_contre": "32",
+				"penality": "0",
+				"diff": "18"
+			},
+			{
+				"ranking": "6",
+				"teamName": "POITIERS ASAC",
+				"points": "35",
+				"days": "22",
+				"win": "10",
+				"nul": "5",
+				"loose": "7",
+				"forfait": "0",
+				"but_pour": "54",
+				"but_contre": "33",
+				"penality": "0",
+				"diff": "21"
+			},
+			{
+				"ranking": "7",
+				"teamName": "BIARD",
+				"points": "32",
+				"days": "22",
+				"win": "9",
+				"nul": "5",
+				"loose": "8",
+				"forfait": "0",
+				"but_pour": "42",
+				"but_contre": "40",
+				"penality": "0",
+				"diff": "2"
+			},
+			{
+				"ranking": "8",
+				"teamName": "ST LEGER MONTBRILLAI",
+				"points": "25",
+				"days": "22",
+				"win": "8",
+				"nul": "1",
+				"loose": "13",
+				"forfait": "0",
+				"but_pour": "47",
+				"but_contre": "52",
+				"penality": "0",
+				"diff": "-5"
+			},
+			{
+				"ranking": "9",
+				"teamName": "CHATEL.PORTUGAIS 2",
+				"points": "23",
+				"days": "22",
+				"win": "7",
+				"nul": "2",
+				"loose": "13",
+				"forfait": "0",
+				"but_pour": "37",
+				"but_contre": "61",
+				"penality": "0",
+				"diff": "-24"
+			},
+			{
+				"ranking": "10",
+				"teamName": "LEIGNE/USSEAU",
+				"points": "20",
+				"days": "22",
+				"win": "5",
+				"nul": "5",
+				"loose": "12",
+				"forfait": "0",
+				"but_pour": "31",
+				"but_contre": "63",
+				"penality": "0",
+				"diff": "-32"
+			},
+			{
+				"ranking": "11",
+				"teamName": "COUSSAY LES BOIS",
+				"points": "19",
+				"days": "22",
+				"win": "5",
+				"nul": "4",
+				"loose": "13",
+				"forfait": "0",
+				"but_pour": "30",
+				"but_contre": "58",
+				"penality": "0",
+				"diff": "-28"
+			},
+			{
+				"ranking": "12",
+				"teamName": "A.S.M.",
+				"points": "13",
+				"days": "22",
+				"win": "3",
+				"nul": "4",
+				"loose": "15",
+				"forfait": "0",
+				"but_pour": "19",
+				"but_contre": "62",
+				"penality": "0",
+				"diff": "-43"
+			}
+		]
+	},
+	{
+		"teams": [
+			{
+				"ranking": "1",
+				"teamName": "NORD VIENNE",
+				"points": "48",
+				"days": "22",
+				"win": "15",
+				"nul": "3",
+				"loose": "4",
+				"forfait": "0",
+				"but_pour": "75",
+				"but_contre": "43",
+				"penality": "0",
+				"diff": "32"
+			},
+			{
+				"ranking": "2",
+				"teamName": "VOUNEUIL BERUGES",
+				"points": "47",
+				"days": "22",
+				"win": "14",
+				"nul": "5",
+				"loose": "3",
+				"forfait": "0",
+				"but_pour": "55",
+				"but_contre": "34",
+				"penality": "0",
+				"diff": "21"
+			},
+			{
+				"ranking": "3",
+				"teamName": "NEUVILLE 3",
+				"points": "43",
+				"days": "22",
+				"win": "14",
+				"nul": "1",
+				"loose": "7",
+				"forfait": "0",
+				"but_pour": "69",
+				"but_contre": "33",
+				"penality": "0",
+				"diff": "36"
+			},
+			{
+				"ranking": "4",
+				"teamName": "MONTAMISE",
+				"points": "38",
+				"days": "22",
+				"win": "11",
+				"nul": "5",
+				"loose": "6",
+				"forfait": "0",
+				"but_pour": "50",
+				"but_contre": "40",
+				"penality": "0",
+				"diff": "10"
+			},
+			{
+				"ranking": "5",
+				"teamName": "THURE BESSE",
+				"points": "32",
+				"days": "22",
+				"win": "9",
+				"nul": "5",
+				"loose": "8",
+				"forfait": "0",
+				"but_pour": "45",
+				"but_contre": "43",
+				"penality": "0",
+				"diff": "2"
+			},
+			{
+				"ranking": "6",
+				"teamName": "JAUNAY MARIGNY",
+				"points": "32",
+				"days": "22",
+				"win": "8",
+				"nul": "8",
+				"loose": "6",
+				"forfait": "0",
+				"but_pour": "45",
+				"but_contre": "32",
+				"penality": "0",
+				"diff": "13"
+			},
+			{
+				"ranking": "7",
+				"teamName": "AVANTON",
+				"points": "26",
+				"days": "22",
+				"win": "8",
+				"nul": "3",
+				"loose": "11",
+				"forfait": "0",
+				"but_pour": "39",
+				"but_contre": "55",
+				"penality": "1",
+				"diff": "-16"
+			},
+			{
+				"ranking": "8",
+				"teamName": "LIGUGE 3",
+				"points": "26",
+				"days": "22",
+				"win": "8",
+				"nul": "2",
+				"loose": "12",
+				"forfait": "0",
+				"but_pour": "32",
+				"but_contre": "41",
+				"penality": "0",
+				"diff": "-9"
+			},
+			{
+				"ranking": "9",
+				"teamName": "LOUDUN",
+				"points": "25",
+				"days": "22",
+				"win": "7",
+				"nul": "4",
+				"loose": "11",
+				"forfait": "0",
+				"but_pour": "33",
+				"but_contre": "46",
+				"penality": "0",
+				"diff": "-13"
+			},
+			{
+				"ranking": "10",
+				"teamName": "AVAILLES EN CHATEL.",
+				"points": "23",
+				"days": "22",
+				"win": "6",
+				"nul": "5",
+				"loose": "11",
+				"forfait": "0",
+				"but_pour": "37",
+				"but_contre": "53",
+				"penality": "0",
+				"diff": "-16"
+			},
+			{
+				"ranking": "11",
+				"teamName": "BOIVRE",
+				"points": "21",
+				"days": "22",
+				"win": "6",
+				"nul": "3",
+				"loose": "13",
+				"forfait": "0",
+				"but_pour": "39",
+				"but_contre": "62",
+				"penality": "0",
+				"diff": "-23"
+			},
+			{
+				"ranking": "12",
+				"teamName": "CERNAY ST GENEST",
+				"points": "10",
+				"days": "22",
+				"win": "2",
+				"nul": "4",
+				"loose": "16",
+				"forfait": "0",
+				"but_pour": "30",
+				"but_contre": "67",
+				"penality": "0",
+				"diff": "-37"
+			}
+		]
+	},
+	{
+		"name": "CHALLENGE DANSAC",
+		"id": "389148",
+		"teams": []
+	},
+	{
+		"name": "SENIORS DEPARTEMENTAL 2",
+		"id": "382649",
+		"teams": []
+	},
+	{
+		"name": "CHPT U11-U13 FÉM À 8",
+		"id": "384046",
+		"teams": []
+	},
+	{
+		"name": "SENIORS DEPARTEMENTAL 4",
+		"id": "382651",
+		"teams": []
+	},
+	{
+		"name": "CHALLENGE DU POITOU À 11",
+		"id": "388125",
+		"teams": []
+	},
+	{
+		"name": "SENIORS DEPARTEMENTAL 3",
+		"id": "382650",
+		"teams": []
+	},
+	{
+		"name": "FOOT-LOISIR",
+		"id": "384049",
+		"teams": []
+	},
+	{
+		"name": "SENIORS DEPARTEMENTAL 1",
+		"id": "382648",
+		"teams": []
+	},
+	{
+		"name": "U15 - DÉPARTEMENTAL 2",
+		"id": "384033",
+		"teams": []
+	},
+	{
+		"name": "U13 - DÉPARTEMENTAL 2",
+		"id": "384036",
+		"teams": []
+	},
+	{
+		"name": "FÉM À 11 - DÉPARTEMENTAL 1",
+		"id": "384026",
+		"teams": []
+	},
+	{
+		"name": "U11 -",
+		"id": "384038",
+		"teams": []
+	},
+	{
+		"name": "MATCHS AMICAUX FEMININS",
+		"id": "387659",
+		"teams": []
+	},
+	{
+		"name": "U17/U18 - DÉPARTEMENTAL 2",
+		"id": "384030",
+		"teams": []
+	},
+	{
+		"name": "CHALLENGE MARCEL RENAUDIE",
+		"id": "387955",
+		"teams": []
+	},
+	{
+		"name": "SENIORS DEPARTEMENTAL 5",
+		"id": "382652",
+		"teams": []
+	},
+	{
+		"name": "FÉM À 11 - DÉPARTEMENTAL 3",
+		"id": "384028",
+		"teams": []
+	},
+	{
+		"name": "FÉM À 11 - DÉPARTEMENTAL 2",
+		"id": "384027",
+		"teams": []
+	},
+	{
+		"name": "U17/U18 - DÉPARTEMENTAL 1",
+		"id": "384029",
+		"teams": []
+	},
+	{
+		"name": "FESTIFOOT U13F",
+		"id": "392354",
+		"teams": []
+	},
+	{
+		"name": "U13 - DÉPARTEMENTAL 1",
+		"id": "384035",
+		"teams": []
+	},
+	{
+		"name": "U13 - DÉPARTEMENTAL 3",
+		"id": "384037",
+		"teams": []
+	},
+	{
+		"name": "CRITERIUM A 8",
+		"id": "384050",
+		"teams": []
+	},
+	{
+		"name": "FESTIVAL FOOT U13",
+		"id": "389145",
+		"teams": []
+	},
+	{
+		"name": "MATCHS AMICAUX SENIORS",
+		"id": "387653",
+		"teams": []
+	},
+	{
+		"name": "MATCH AMICAUX U11/U13F",
+		"id": "392632",
+		"teams": []
+	},
+	{
+		"name": "U15 - DÉPARTEMENTAL 1",
+		"id": "384032",
+		"teams": []
+	},
+	{
+		"name": "U15  - CHAMPIONNAT A 8",
+		"id": "384034",
+		"teams": []
+	}
+]
