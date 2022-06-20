@@ -8,7 +8,7 @@ var objKeys = ["ranking", "teamName", "points", "days", "win", "nul", "loose", "
 
 
 const writeData = async () => {
-    const dataJSON = JSON.stringify(dataArray, null, '\t');
+    const dataJSON = JSON.stringify(dataArray, null,'\t');
     fs.writeFile('./teams.json', dataJSON, err => {
         if (err) {
             console.log("Error writing to file.");
@@ -38,7 +38,7 @@ const getChampionant = async () => {
             }
             dataArray.push(championat);
             console.log(dataArray);
-            await new Promise(r => setTimeout(r, 2000));
+        
         }
 
 
